@@ -1,0 +1,1 @@
+Kummatti refers to a traditional mask dance or folk performance in Kerala Mostly during Onam festival

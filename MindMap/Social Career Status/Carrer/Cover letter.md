@@ -1,0 +1,2 @@
+For Website
+I am a Techi, be it data or SWE or AI, Dosen't matter, I love solving tech problems, I believe a good developer is not someone who remember all the syntax and codes, But one who can wakes grab the keyboard under his pillow and solves the most challenging problem.

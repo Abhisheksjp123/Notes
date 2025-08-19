@@ -1,0 +1,1 @@
+The metric system is an international decimal system of weights and measures, originally developed in France in the late 18th century. Its main units are the metre (for length), the kilogram (for mass), and the second (for time), with all other units derived from these base units using powers of ten

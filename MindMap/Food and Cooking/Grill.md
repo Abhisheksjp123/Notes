@@ -1,0 +1,1 @@
+Grilling uses direct heat from a flame or heating element, often resulting in a smoky, charred flavour

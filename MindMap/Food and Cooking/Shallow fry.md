@@ -1,0 +1,1 @@
+Shallow frying, also known as pan-frying, involves cooking food in a shallow layer of hot oil, which can lead to a crispy exterior and potentially higher fat content. 
