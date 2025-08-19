@@ -2,7 +2,7 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#ff5757",
+      "color": "#f54d4d",
       "directory": "Utilities/Calender"
     }
   ],
