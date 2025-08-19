@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "42a498556437dedc",
+    "type": "split",
+    "children": [
+      {
+        "id": "73baa1934cdb100d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf506ee9fea7d7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1caf08900ca8de85",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd883161c96492d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4d471204dba8a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10700d2eea3199d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Independent-row-subquery",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b844ac6bf5f6e5c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31c82510ee8b6db4",
+    "type": "split",
+    "children": [
+      {
+        "id": "af37cb87cb02253e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3061343065a2c53b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Backpropagation"
+            }
+          },
+          {
+            "id": "83e914bcbb2a01be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Backpropagation"
+            }
+          },
+          {
+            "id": "604fc36fa6d4e02c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3ba98308c93b0f04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Backpropagation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7bf506ee9fea7d7b",
+  "lastOpenFiles": [
+    "Utilities",
+    "New folder",
+    "AIML_Notes/SQL for Data Analyst/related/DDL - Data defination language.md",
+    "AIML_Notes/SQL for Data Analyst/related/Constraints in DB.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL SubQueries.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Computer-Science/DataBase/Database.md",
+    "Computer-Science/DataBase/Related/DBMS - Database Management System.md",
+    "2025-08-19.md",
+    "SQL Window Funtion.md",
+    "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
+    "AIML_Notes/SQL for Data Analyst/SQL.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL Common table expressions - CTEs.md",
+    "AIML_Notes/SQL for Data Analyst/related/CTEs vs SubQueries.md",
+    "AIML_Notes/SQL for Data Analyst/SQL Practice Question bank.md",
+    "MindMap/Jobs/Calls.md",
+    "MindMap/Jobs/Applied.md",
+    "AIML_Notes/Machine learning/Question Bank/Q12 - Issues with Practical Machine learning problems.md",
+    "AIML_Notes/Machine learning/Question Bank/Q10 - When to use timeseries modelling.md",
+    "MindMap/Jobs/Related/MSD Research.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL Joins.md",
+    "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250818093528.png",
+    "AIML_Notes/SQL for Data Analyst/related/Normalization in SQL.md",
+    "AIML_Notes/SQL for Data Analyst/related/Order of Query execution.md",
+    "AIML_Notes/RoadMaps and QuestionBanks.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL Functions.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL operators.md",
+    "AIML_Notes/Machine learning/Structure-start files/AI ML Roadmap.md",
+    "AIML_Notes/SQL for Data Analyst/related/DATA integrity.md",
+    "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250817130720.png",
+    "AIML_Notes/SQL for Data Analyst/related",
+    "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 8.39.55 PM.png",
+    "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 5.58.13 PM.png",
+    "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 5.50.08 PM.png",
+    "Computer-Science/DataBase/Related/Node JS",
+    "Computer-Science/DataBase/Related",
+    "Computer-Science/DataBase",
+    "AIML_Notes/SQL for Data Analyst",
+    "MindMap/Jobs/Salaries",
+    "MindMap/Jobs/Related files",
+    "MindMap/Jobs/Impact Analytics June25 DS",
+    "MindMap/Jobs/Ebay June 2025 DS/Resume_Data_Science_Role 1.pdf",
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250809015008.png",
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250809015550.png",
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250810131008.png",
+    "AIML_Notes/Gen AI/Related/Pasted image 20250803132516.png",
+    "AIML_Notes/Gen AI/Related/Pasted image 20250803132012.png"
+  ]
+}
