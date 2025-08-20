@@ -1,42 +1,28 @@
 {
   "main": {
-    "id": "500e8dcc592971df",
+    "id": "42a498556437dedc",
     "type": "split",
     "children": [
       {
-        "id": "b7623e5f48f41aa6",
+        "id": "73baa1934cdb100d",
         "type": "tabs",
         "children": [
           {
-            "id": "3a7d314489ca0d8d",
+            "id": "e4947ea0e630a995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML_Notes/Machine learning/Model Evaluation/ROC Curve.md",
+                "file": "AIML_Notes/SQL for Data Analyst/related/SQL Window Funtion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROC Curve"
+              "title": "SQL Window Funtion"
             }
           },
           {
-            "id": "ee9db862ad097cb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MindMap/Jobs/Calls.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calls"
-            }
-          },
-          {
-            "id": "4b13d1366782a06b",
+            "id": "48d009b47e5e181e",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -44,37 +30,22 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "17f2a0375e87a47d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL Window Funtion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL Window Funtion"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5989923411c66451",
+    "id": "1caf08900ca8de85",
     "type": "split",
     "children": [
       {
-        "id": "12c533e7e621d67a",
+        "id": "dbd883161c96492d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb442456b5675cd1",
+            "id": "7e4d471204dba8a1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,12 +58,12 @@
             }
           },
           {
-            "id": "15001ea3918a74ad",
+            "id": "10700d2eea3199d3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Independent-row-subquery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +75,7 @@
             }
           },
           {
-            "id": "f083bd96e87a9a34",
+            "id": "b844ac6bf5f6e5c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,20 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "7ce5eb17aac1c75c",
+    "id": "31c82510ee8b6db4",
     "type": "split",
     "children": [
       {
-        "id": "fd59e4998403db19",
+        "id": "af37cb87cb02253e",
         "type": "tabs",
         "children": [
           {
-            "id": "b1523908574421e5",
+            "id": "3061343065a2c53b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIML_Notes/Python and its libraries/Core python/Python Syntax Test.md",
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python Syntax Test"
+              "title": "Backlinks for Backpropagation"
             }
           },
           {
-            "id": "6e6599f87f113e5e",
+            "id": "83e914bcbb2a01be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Multiple Tm + Sw + Tc.md",
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Multiple Tm + Sw + Tc"
+              "title": "Outgoing links from Backpropagation"
             }
           },
           {
-            "id": "60eca3e098d7d5b5",
+            "id": "604fc36fa6d4e02c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,26 +147,25 @@
             }
           },
           {
-            "id": "280c373038583800",
+            "id": "3ba98308c93b0f04",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIML_Notes/SQL for Data Analyst/SQL.md",
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL"
+              "title": "Outline of Backpropagation"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -209,53 +179,55 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "17f2a0375e87a47d",
+  "active": "e4947ea0e630a995",
   "lastOpenFiles": [
-    "MindMap/Jobs/Calls.md",
+    "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
+    "AIML_Notes/SQL for Data Analyst/SQL.md",
+    "AIML_Notes/SQL for Data Analyst/related/General SELECT statements.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL Window Funtion.md",
+    "AIML_Notes/SQL for Data Analyst/SQL Practice Question bank.md",
+    "README.md",
+    "Utilities/Tasks/Tasks.md",
+    "Utilities/Mindmaps/How to Crack AIML interview.canvas",
+    "AIML_Notes/Machine learning/Structure-start files/AI ML Roadmap.md",
+    "Utilities/Mindmaps",
+    "Utilities/Tasks",
     "Utilities/Calender/2026-08-18 end Gemini pro sub from ashukla id.md",
-    "Utilities/Calender/2025-08-19 IDFC bank interview L1.md",
     "Utilities/Calender/2025-08-22 SRI L2 - Datascientist.md",
     "Utilities/Calender/2025-08-20 O9 Solution - CPG.md",
-    "Utilities/New Text Document.txt",
     "Utilities/Calender",
+    "Utilities/Calender/2025-08-19 IDFC bank interview L1.md",
     "Utilities",
-    "Unlabel Notes/Blast furnance.md",
-    "Unlabel Notes",
-    "SQL Window Funtion.md",
-    "README.md",
-    "MindMap/Jobs/Applied.md",
+    "New folder",
+    "AIML_Notes/SQL for Data Analyst/related/DDL - Data defination language.md",
+    "AIML_Notes/SQL for Data Analyst/related/Constraints in DB.md",
     "AIML_Notes/SQL for Data Analyst/related/SQL SubQueries.md",
+    "Untitled 1.canvas",
+    "Computer-Science/DataBase/Database.md",
+    "Computer-Science/DataBase/Related/DBMS - Database Management System.md",
+    "2025-08-19.md",
     "AIML_Notes/SQL for Data Analyst/related/SQL Common table expressions - CTEs.md",
     "AIML_Notes/SQL for Data Analyst/related/CTEs vs SubQueries.md",
-    "MindMap/Jobs/Interview prep questions.md",
-    "AIML_Notes/Machine learning/Model Evaluation/ROC Curve.md",
-    "AIML_Notes/Machine learning/Model Evaluation/Classification model evaluation.md",
-    "AIML_Notes/Machine learning/Model Evaluation/Model evaluation metrics.md",
-    "AIML_Notes/Machine learning/Model Evaluation/Model evaluation.md",
-    "AIML_Notes/Machine learning/Model Evaluation/Cross Validation.md",
-    "AIML_Notes/Machine learning/Structure-start files/AI ML Roadmap.md",
+    "MindMap/Jobs/Calls.md",
+    "MindMap/Jobs/Applied.md",
+    "AIML_Notes/Machine learning/Question Bank/Q12 - Issues with Practical Machine learning problems.md",
+    "AIML_Notes/Machine learning/Question Bank/Q10 - When to use timeseries modelling.md",
     "MindMap/Jobs/Related/MSD Research.md",
-    "MindMap/Jobs/Exiting a company.md",
-    "MindMap/Jobs/Ideal Job.md",
-    "MindMap/Jobs/Analysis.md",
-    "AIML_Notes/SQL for Data Analyst/SQL.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL operators.md",
     "AIML_Notes/SQL for Data Analyst/related/SQL Joins.md",
     "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250818093528.png",
-    "AIML_Notes/SQL for Data Analyst/related",
     "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250817130720.png",
+    "AIML_Notes/SQL for Data Analyst/related",
     "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 8.39.55 PM.png",
     "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 5.58.13 PM.png",
     "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 5.50.08 PM.png",
+    "Computer-Science/DataBase/Related/Node JS",
     "Computer-Science/DataBase/Related",
-    "Computer-Science/Untitled",
-    "MindMap/Languages and words/Language related words/Malayali words Dump",
-    "MindMap/Languages and words/Language related words",
-    "MindMap/Languages and words/Context dependent words",
-    "AIML_Notes/Gen AI/Related/Screenshot 2025-07-25 at 12.03.28 AM.png",
-    "Screenshot 2025-07-25 at 12.00.12 AM.png",
-    "AIML_Notes/Deep Learning/Images/Pasted image 20250627193919.png",
-    "AIML_Notes/Deep Learning/Images/638866497801006777.png",
-    "AIML_Notes/Deep Learning/Images/Pasted image 20250627195416.png"
+    "Computer-Science/DataBase",
+    "AIML_Notes/SQL for Data Analyst",
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250809015008.png",
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250809015550.png",
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250810131008.png",
+    "AIML_Notes/Gen AI/Related/Pasted image 20250803132516.png",
+    "AIML_Notes/Gen AI/Related/Pasted image 20250803132012.png"
   ]
 }
