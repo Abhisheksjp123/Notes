@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"1416586207c68624","type":"group","x":-2040,"y":-1120,"width":1345,"height":560,"color":"3","label":"Technology"},
+		{"id":"db72ec0a84eb8e94","type":"group","x":-2040,"y":-200,"width":1345,"height":480,"color":"6","label":"Programming Language"},
+		{"id":"1fc904ccb28828ab","type":"group","x":280,"y":10,"width":290,"height":220,"label":"Untitled group"},
+		{"id":"e8698d82a14e6eeb","type":"group","x":200,"y":-460,"width":290,"height":190,"label":"Untitled group"},
+		{"id":"4a73ee6ee22024d7","type":"text","text":"How to Crack AI ML interview?","x":-200,"y":-80,"width":306,"height":60,"color":"4"},
+		{"id":"f5daa5add5db8c2d","type":"text","text":"DSA","x":220,"y":-350,"width":250,"height":60},
+		{"id":"8c7534d3e6a25af9","type":"text","text":"Probablity","x":300,"y":30,"width":250,"height":60},
+		{"id":"bdc18ca27d746daa","type":"text","text":"Statitics","x":300,"y":150,"width":250,"height":60},
+		{"id":"a6cd021c2159d216","type":"text","text":"RESUME","x":-200,"y":-440,"width":250,"height":60},
+		{"id":"212800d2b1f4f3aa","type":"text","text":"FMCG","x":-200,"y":280,"width":250,"height":60},
+		{"id":"5de076fc24dfc300","type":"text","text":"Traditional Machine Learning","x":-2040,"y":-1120,"width":400,"height":50},
+		{"id":"e0b44939b5bc6518","type":"text","text":"Deep Learning","x":-1600,"y":-1120,"width":400,"height":50},
+		{"id":"02e7c69cabff84d5","type":"file","file":"AIML_Notes/Machine learning/Structure-start files/AI ML Roadmap.md","x":-2040,"y":-1000,"width":400,"height":400},
+		{"id":"c4f5e7df20afeb2e","type":"file","file":"AIML_Notes/Deep Learning/Deep learning Roadmaps.md","x":-1600,"y":-1000,"width":400,"height":400},
+		{"id":"8f25867015909272","type":"file","file":"AIML_Notes/Gen AI/Gen AI Roadmap.md","x":-1160,"y":-1000,"width":400,"height":400},
+		{"id":"b53581bde102ec85","type":"text","text":"Generative AI","x":-1160,"y":-1120,"width":410,"height":60},
+		{"id":"a37767f200c82d8a","type":"text","text":"Pyspark","x":-2025,"y":-180,"width":250,"height":60},
+		{"id":"96166d736300fdef","type":"text","text":"SQl","x":-1735,"y":-180,"width":250,"height":60},
+		{"id":"c31808d6e3f8232c","type":"text","text":"Python","x":-1445,"y":-180,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0644d28bfa02de25","fromNode":"1416586207c68624","fromSide":"right","toNode":"4a73ee6ee22024d7","toSide":"left","toEnd":"none"},
+		{"id":"6c3ecbca914106d5","fromNode":"a6cd021c2159d216","fromSide":"bottom","toNode":"4a73ee6ee22024d7","toSide":"top","toEnd":"none"},
+		{"id":"2b92d8d9d9447c04","fromNode":"e8698d82a14e6eeb","fromSide":"bottom","toNode":"4a73ee6ee22024d7","toSide":"right","toEnd":"none"},
+		{"id":"e2331271c90bf9c9","fromNode":"1fc904ccb28828ab","fromSide":"left","toNode":"4a73ee6ee22024d7","toSide":"right","toEnd":"none"},
+		{"id":"b485befaa3fa4f2c","fromNode":"212800d2b1f4f3aa","fromSide":"top","toNode":"4a73ee6ee22024d7","toSide":"bottom","toEnd":"none"},
+		{"id":"c5aeca880f179ade","fromNode":"db72ec0a84eb8e94","fromSide":"right","toNode":"4a73ee6ee22024d7","toSide":"left","toEnd":"none"}
+	]
+}

@@ -80,6 +80,7 @@ I applied from the mail, waiting from hiring manager response for next steps
 I told them I am in home town and she said has scheduled a interview 
 interview scheduled at 18th July
 [[MSD Research]]
+Gave the L1 interview, lets see, followback later 
 
 
 ### 31 July
@@ -98,7 +99,8 @@ Location - Pune
 ==next step== He will share my profile with hiring manager, and process will start after that.
 Profile got passed for further process
 they have sent me a project, where I can create a full blown project to determine SI content in a blast furnace, seems like a good project will pick it up early tomm morning
-Done with the project, what I did was descent only, lets see hope, it gets selected seems like a good company
+Done with the project on 12 Aug, what I did was decent only, lets see hope, it gets selected seems like a good company
+followed back
 
 
 3.  SRI(Strategic Research Insights) Insight
@@ -110,22 +112,21 @@ Email - replied with updated cv with acknowledgement
 Interview on 6th August wednesday, mp HR based round
 I think it went fine Lets wait for the results [[l1 - interview SRI, HR Based]]
 Followback
+Got a secong round of interview on Friday 22 Aug, will be a technical round
+if went well probably would get a offer.
 
 # 8 August
 1. IDFC Bank
-HR - Ashwii
+HR - Ashwini(F)
 Location - Bengaluru
 Mode - 5 days work from office+ alternate saturday
 Role - Data scientist
    
 ==Next steps==
-<<<<<<< Updated upstream
 send a mail for acknowledgement, waiting or there response.
-Call setup on Tuesday
-=======
-send a mail for acknowledgemet, waiting or there respnse.
-Got an interview on Tuesday
->>>>>>> Stashed changes
+got an interview on 19th Aug, interview went fine.
+Lets waid for couple days
+
 
 2. O9 solutions
 
@@ -161,3 +162,23 @@ Acknowledged the mail, waiting for hiring manager approval
 
 # 19 Aug
 1. Voicing AI
+HR - Geetanjali
+Location: online
+Type - Work from home
+Domain - 
+Role - ML Role
+
+
+==Next steps==
+Acknowledged, Waiting for resume shortlisting. 
+
+1. ZenStatement
+HR - Mukti
+Location - Somewhere in Mahadevpura, Bengaluru
+Type - Hybrid
+mail - [Link](https://mail.google.com/mail/u/0/#inbox/WhctKLbmhzxMczpkSzpTLdjjlxDLgtmZGxgbpzdrtZQlFDgSgZnmwfgMNNJWWwRnFDTshFl)
+Role - Lead AI Engineer
+JD - part of the mail chain
+
+==Next steps==
+Acknowledged, Waiting for resume shortlisting. 
