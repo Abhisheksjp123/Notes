@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML_Notes/SQL for Data Analyst/related/SQL Window Funtion.md",
+                "file": "MindMap/Jobs/Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Window Funtion"
+              "title": "Calls"
+            }
+          },
+          {
+            "id": "199bbbeb13f1ee0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Tasks/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           },
           {
@@ -31,7 +45,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,15 +194,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e4947ea0e630a995",
+  "active": "199bbbeb13f1ee0a",
   "lastOpenFiles": [
+    "MindMap/Jobs/Calls.md",
+    "Utilities/Calender/2025-08-25 Voicing AI, L1 round.md",
+    "Utilities/Tasks/Tasks.md",
+    "MindMap/Jobs/Applied.md",
+    "MindMap/Jobs/Analysis.md",
+    "MindMap/Jobs/Salaries/Website for tracking tech salaries.md",
+    "MindMap/Jobs/Bain/Process.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL Window Funtion.md",
     "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
     "AIML_Notes/SQL for Data Analyst/SQL.md",
     "AIML_Notes/SQL for Data Analyst/related/General SELECT statements.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL Window Funtion.md",
     "AIML_Notes/SQL for Data Analyst/SQL Practice Question bank.md",
     "README.md",
-    "Utilities/Tasks/Tasks.md",
     "Utilities/Mindmaps/How to Crack AIML interview.canvas",
     "AIML_Notes/Machine learning/Structure-start files/AI ML Roadmap.md",
     "Utilities/Mindmaps",
@@ -208,12 +229,6 @@
     "2025-08-19.md",
     "AIML_Notes/SQL for Data Analyst/related/SQL Common table expressions - CTEs.md",
     "AIML_Notes/SQL for Data Analyst/related/CTEs vs SubQueries.md",
-    "MindMap/Jobs/Calls.md",
-    "MindMap/Jobs/Applied.md",
-    "AIML_Notes/Machine learning/Question Bank/Q12 - Issues with Practical Machine learning problems.md",
-    "AIML_Notes/Machine learning/Question Bank/Q10 - When to use timeseries modelling.md",
-    "MindMap/Jobs/Related/MSD Research.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL Joins.md",
     "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250818093528.png",
     "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250817130720.png",
     "AIML_Notes/SQL for Data Analyst/related",
