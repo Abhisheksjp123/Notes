@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b36d11c3b7c162fb","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Interview prep"},
+		{"id":"be5516f19c208a1a","x":340,"y":-200,"width":400,"height":400,"type":"file","file":"MindMap/Jobs/Calls.md"}
+	],
+	"edges":[
+		{"id":"63e432bae8c97cc5","fromNode":"b36d11c3b7c162fb","fromSide":"right","toNode":"be5516f19c208a1a","toSide":"left"}
+	]
+}
