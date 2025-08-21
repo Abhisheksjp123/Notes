@@ -1,91 +1,48 @@
 {
   "main": {
-    "id": "500e8dcc592971df",
+    "id": "42a498556437dedc",
     "type": "split",
     "children": [
       {
-        "id": "4a2d2adf68a0a2f7",
+        "id": "73baa1934cdb100d",
         "type": "tabs",
         "children": [
           {
-            "id": "541fe04789991b4d",
+            "id": "e4947ea0e630a995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML_Notes/Python and its libraries/Related/Basics of Python.md",
+                "file": "MindMap/Jobs/Calls.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics of Python"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b7623e5f48f41aa6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d9e71d12adeaacb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIML_Notes/Python and its libraries/Related/Python Data Types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Python Data Types"
+              "title": "Calls"
             }
           },
           {
-            "id": "a83a082c403ee350",
+            "id": "199bbbeb13f1ee0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilities/Tasks/2025-08-21.md",
+                "file": "Utilities/Calender/2026-08-18 end Gemini pro sub from ashukla id.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-21"
+              "title": "2026-08-18 end Gemini pro sub from ashukla id"
             }
           },
           {
-            "id": "9e8baa37fc5ca5e7",
+            "id": "48d009b47e5e181e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIML_Notes/Python and its libraries/Python RoadMap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Python RoadMap"
-            }
-          },
-          {
-            "id": "c8b1d1ff4b9a3b6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Tasks/2025-08-20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-20"
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ],
@@ -95,15 +52,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5989923411c66451",
+    "id": "1caf08900ca8de85",
     "type": "split",
     "children": [
       {
-        "id": "12c533e7e621d67a",
+        "id": "dbd883161c96492d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb442456b5675cd1",
+            "id": "7e4d471204dba8a1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -116,12 +73,12 @@
             }
           },
           {
-            "id": "15001ea3918a74ad",
+            "id": "10700d2eea3199d3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Independent-row-subquery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +90,7 @@
             }
           },
           {
-            "id": "f083bd96e87a9a34",
+            "id": "b844ac6bf5f6e5c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -149,48 +106,48 @@
     "width": 300
   },
   "right": {
-    "id": "7ce5eb17aac1c75c",
+    "id": "31c82510ee8b6db4",
     "type": "split",
     "children": [
       {
-        "id": "fd59e4998403db19",
+        "id": "af37cb87cb02253e",
         "type": "tabs",
         "children": [
           {
-            "id": "b1523908574421e5",
+            "id": "3061343065a2c53b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities/Templates/Format.md",
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Format"
+              "title": "Backlinks for Backpropagation"
             }
           },
           {
-            "id": "6e6599f87f113e5e",
+            "id": "83e914bcbb2a01be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilities/Templates/Format.md",
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Format"
+              "title": "Outgoing links from Backpropagation"
             }
           },
           {
-            "id": "60eca3e098d7d5b5",
+            "id": "604fc36fa6d4e02c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -205,22 +162,22 @@
             }
           },
           {
-            "id": "280c373038583800",
+            "id": "3ba98308c93b0f04",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilities/Templates/Format.md",
+                "file": "AIML_Notes/Deep Learning/NNs on Data/Backpropagation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Format"
+              "title": "Outline of Backpropagation"
             }
           },
           {
-            "id": "a3e7a6cf851eb1c4",
+            "id": "3a88d6535a55d831",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -229,16 +186,15 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -248,54 +204,55 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a83a082c403ee350",
+  "active": "7e4d471204dba8a1",
   "lastOpenFiles": [
-    "AIML_Notes/Python and its libraries/Related/Operators in Python.md",
-    "Utilities/Tasks/2025-08-21.md",
-    "AIML_Notes/Python and its libraries/Related/Basics of Python.md",
-    "AIML_Notes/Python and its libraries/Related/Python Data Types.md",
-    "AIML_Notes/Python and its libraries/Python RoadMap.md",
-    "AIML_Notes/Python and its libraries/Core python/Python Syntax Test.md",
-    "AIML_Notes/Tests and Question Bank/List of tests.md",
-    "AIML_Notes/Python and its libraries/hashable type.md",
-    "AIML_Notes/Python and its libraries/Related",
-    "AIML_Notes/Python and its libraries/Python question bank.md",
-    "AIML_Notes/Python and its libraries/Core python/Classes.md",
-    "AIML_Notes/Python and its libraries/Libraries/Pytorch.md",
-    "AIML_Notes/Python and its libraries/Libraries/Libraries.md",
-    "Utilities/Tasks/2025-08-20.md",
-    "Utilities/Templates/Tasks Format.md",
-    "AIML_Notes/SQL for Data Analyst/related/Aggregate sql function.md",
-    "AIML_Notes/Python and its libraries/Core python/Functions.md",
-    "AIML_Notes/Python and its libraries/Core python/Core Python.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL Functions.md",
-    "AIML_Notes/SQL for Data Analyst/related/General SELECT statements.md",
-    "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
-    "AIML_Notes/SQL for Data Analyst/SQL.md",
-    "AIML_Notes/SQL for Data Analyst/related/POSTGRE SQL syntax.md",
-    "Utilities/Tasks/2025-08-19.md",
-    "Computer-Science/DataBase/Database.md",
-    "Utilities/Templates",
-    "MindMap/Jobs/Bain/Process.md",
-    "AIML_Notes/Machine learning/Model Evaluation/ROC Curve.md",
-    "Work Experience/Fractal/Reckitt Benkiser - PNP modelling",
-    "Work Experience/Fractal/Mckormick - MMM modelling",
+    "Work Experience/Fractal/US PETCARE RGM/Model.md",
     "Work Experience/Fractal/US PETCARE RGM",
+    "Work Experience/Untitled.md",
     "Work Experience/Fractal",
     "Work Experience",
-    "Utilities/Tasks",
+    "Utilities/Templates/Tasks Format.md",
+    "Utilities/Templates",
+    "Utilities/Tasks/2025-08-21.md",
+    "Utilities/Tasks/2025-08-20.md",
+    "Utilities/Tasks/2025-08-19.md",
+    "Utilities/Calender/2025-08-21 Evernorth.md",
+    "Utilities/Calender/2025-08-18 Merck and co Pharmaceutical.md",
+    "AIML_Notes/SQL for Data Analyst/related/POSTGRE SQL syntax.md",
+    "AIML_Notes/SQL for Data Analyst/related/Aggregate sql function.md",
+    "AIML_Notes/Python and its libraries/Related/Python Data Types.md",
+    "AIML_Notes/Python and its libraries/Related/Operators in Python.md",
+    "AIML_Notes/Python and its libraries/Related/Basics of Python.md",
+    "AIML_Notes/Python and its libraries/Related",
+    "AIML_Notes/Python and its libraries/Python question bank.md",
+    "AIML_Notes/Python and its libraries/Python RoadMap.md",
+    "Utilities/Calender/2025-08-22 SRI L2 - Datascientist.md",
+    "Utilities/Calender/2025-08-20 O9 Solution - CPG.md",
+    "Utilities/Calender/2025-08-19 IDFC bank interview L1.md",
+    "Utilities/Tasks/Tasks.md",
+    "MindMap/Jobs/Calls.md",
+    "Utilities/Calender/2025-08-25 Voicing AI, L1 round.md",
+    "MindMap/Jobs/Applied.md",
+    "MindMap/Jobs/Analysis.md",
+    "MindMap/Jobs/Salaries/Website for tracking tech salaries.md",
+    "MindMap/Jobs/Bain/Process.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL Window Funtion.md",
     "Utilities/Mindmaps/How to Crack AIML interview.canvas",
     "Utilities/Mindmaps",
-    "Utilities/New Text Document.txt",
+    "Utilities/Tasks",
+    "Utilities/Calender",
+    "Utilities",
+    "New folder",
+    "Untitled 1.canvas",
     "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250818093528.png",
     "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250817130720.png",
     "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 8.39.55 PM.png",
     "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 5.58.13 PM.png",
     "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 5.50.08 PM.png",
-    "AIML_Notes/Gen AI/Related/Screenshot 2025-07-25 at 12.03.28 AM.png",
-    "Screenshot 2025-07-25 at 12.00.12 AM.png",
-    "AIML_Notes/Deep Learning/Images/Pasted image 20250627193919.png",
-    "AIML_Notes/Deep Learning/Images/638866497801006777.png",
-    "AIML_Notes/Deep Learning/Images/Pasted image 20250627195416.png"
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250809015008.png",
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250809015550.png",
+    "AIML_Notes/Machine learning/Data preprocessing/Pasted image 20250810131008.png",
+    "AIML_Notes/Gen AI/Related/Pasted image 20250803132516.png",
+    "AIML_Notes/Gen AI/Related/Pasted image 20250803132012.png"
   ]
 }
