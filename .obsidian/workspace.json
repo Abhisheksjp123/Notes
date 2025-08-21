@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML_Notes/Python and its libraries/Related/Basics of Python.md",
+                "file": "Utilities/Tasks/2025-08-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Basics of Python"
+              "title": "2025-08-22"
             }
           },
           {
@@ -62,8 +62,7 @@
               "title": "2025-08-21"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,13 +221,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "38e3cb9d9394f680",
+  "active": "17c4cf6cc381e604",
   "lastOpenFiles": [
     "AIML_Notes/Python and its libraries/Related/Basics of Python.md",
-    "Utilities/Tasks/2025-08-21.md",
-    "Conditional statements and Loops.md",
-    "MindMap/Languages and words/Word list.md",
+    "Utilities/Tasks/2025-08-22.md",
     "English Idioms.md",
+    "AIML_Notes/Python and its libraries/Related/List of popular built in function in python.md",
+    "AIML_Notes/Python and its libraries/Related/Conditional statements and Loops.md",
+    "Utilities/Tasks/2025-08-21.md",
+    "MindMap/Languages and words/Word list.md",
     "AIML_Notes/Python and its libraries/Related/Error Handelling and Input Validation.md",
     "AIML_Notes/Python and its libraries/Related/Variables, Keywords, Identifiers and Literals.md",
     "AIML_Notes/Python and its libraries/Python RoadMap.md",
@@ -256,8 +257,6 @@
     "AIML_Notes/Python and its libraries/Core python/Classes.md",
     "AIML_Notes/Python and its libraries/Libraries/Pytorch.md",
     "AIML_Notes/Python and its libraries/Libraries/Libraries.md",
-    "Utilities/Tasks/2025-08-20.md",
-    "Utilities/Templates/Tasks Format.md",
     "Utilities/Templates",
     "Work Experience/Fractal/Reckitt Benkiser - PNP modelling",
     "Work Experience/Fractal/Mckormick - MMM modelling",

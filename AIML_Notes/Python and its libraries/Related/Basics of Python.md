@@ -11,3 +11,5 @@ This is a exercise to keep the most common #Buitin syntaxes and their uses in on
 # 5. [[Operators in Python]]
 
 # 6. [[Conditional statements and Loops]]
+# 7. [[List of popular built in function in python]]
+# 8. 
