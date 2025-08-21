@@ -4,7 +4,8 @@ Statistics
 2. [[Statistics Test]]
 
 Python
-1. [[Python Syntax Test]]
+1. [[Python question bank]]
 
 SQL
+1. [[SQL Practice Question bank]]
 

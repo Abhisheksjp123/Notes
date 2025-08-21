@@ -90,6 +90,7 @@ FROM campusx.smartphones
 GROUP BY brand_name, processor_brand
 ```
 
+Note count(), max(), SUM() these are [[Aggregate sql function]], used to do several additive tasks
 10. HAVING
 What WHERE is for SELECT, HAVING is the same for GROUP BY 
 ex. find out average ratings of brands which have more than 20 phones

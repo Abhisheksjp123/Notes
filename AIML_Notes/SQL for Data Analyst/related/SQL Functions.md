@@ -23,4 +23,7 @@ SELECT COUNT(phones) FROM campusx.smartphones
 1. ABS()
 2. ROUND(col, 2)
 3. CEIL/FLOOR
-4. 
+
+
+# Entire list of functions based on their dtype
+[[Aggregate sql function]]

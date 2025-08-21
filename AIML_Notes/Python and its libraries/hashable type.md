@@ -16,7 +16,7 @@ An object is **hashable** if:
 
 ### **Examples of Non-Hashable Types:**
 
-- **Lists**: [1, 2, 3] (mutable)
+- **Lists**: \[1, 2, 3] (mutable)
     
 - **Dictionaries**: {'a': 1} (mutable)
     
