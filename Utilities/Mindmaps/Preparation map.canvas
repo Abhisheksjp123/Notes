@@ -12,7 +12,7 @@
 		{"id":"212800d2b1f4f3aa","type":"text","text":"FMCG","x":-200,"y":280,"width":250,"height":60},
 		{"id":"5de076fc24dfc300","type":"text","text":"Traditional Machine Learning","x":-2040,"y":-1120,"width":400,"height":50},
 		{"id":"e0b44939b5bc6518","type":"text","text":"Deep Learning","x":-1600,"y":-1120,"width":400,"height":50},
-		{"id":"02e7c69cabff84d5","type":"file","file":"AIML_Notes/Machine learning/Structure-start files/AI ML Roadmap.md","x":-2040,"y":-1000,"width":400,"height":400},
+		{"id":"02e7c69cabff84d5","type":"file","file":"AIML_Notes/Machine learning/AI ML Roadmap.md","x":-2040,"y":-1000,"width":400,"height":400},
 		{"id":"c4f5e7df20afeb2e","type":"file","file":"AIML_Notes/Deep Learning/Deep learning Roadmaps.md","x":-1600,"y":-1000,"width":400,"height":400},
 		{"id":"8f25867015909272","type":"file","file":"AIML_Notes/Gen AI/Gen AI Roadmap.md","x":-1160,"y":-1000,"width":400,"height":400},
 		{"id":"b53581bde102ec85","type":"text","text":"Generative AI","x":-1160,"y":-1120,"width":410,"height":60},

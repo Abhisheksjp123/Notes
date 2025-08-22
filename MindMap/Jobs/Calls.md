@@ -1,3 +1,6 @@
+[[Interview process in progress]]
+[[Interview documentation list]]
+
 ### 30 July 2025
 
 1. HiLabs
@@ -49,7 +52,7 @@ waiting for 2nd round of interview, mp will be rejected
 
 
 #### 5. Loadshare Network
-company is vey nice
+company is very nice
 Applied on - Naukri
 Call - sufficient explanation from her and me
 Location - Koramangala Bangalore
@@ -132,6 +135,7 @@ Lets waid for couple days
 
 ==Next steps== 
 Interview on Wednesday 20th Aug
+Rejected [[Interview O9 solutions]]
 
 # 11-12 Aug
 1. Sprinkler
@@ -171,7 +175,7 @@ Role - ML Role
 
 
 ==Next steps==
-Acknowledged, Waiting for resume shortlisting. 
+Acknowledged, Waiting for resume shortlisting.  Interview on Monday
 
 1. ZenStatement
 HR - Mukti
@@ -183,3 +187,31 @@ JD - part of the mail chain
 
 ==Next steps==
 Acknowledged, Waiting for resume shortlisting. 
+
+# 21 Aug
+1. ABin Beverages
+HR - Ormitha
+
+2. Unilog
+Hr - Asha
+
+3. Enlyst
+HR - chaitra
+
+4. Tesco
+They will probably send a test by tomm to be completed this weekend
+
+# 22 Aug
+1. JP Morgan chase
+Role - DS L3
+Type - All 5 days
+Assest management, coding python, core data science, deployment and prodm ML Engineering in focus
+
+
+[[JP Morgan Process]]
+
+
+
+
+
+

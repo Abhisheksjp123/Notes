@@ -19,6 +19,8 @@ These are the fundamental building blocks for data in Python.
 
 You can always check a variable's type using the `type()` function. For example, `type(3.14)` returns `<class 'float'>`.
 
+[[Python String Datatype]] : here is in depth notebook on strings
+
 ## Container Data Types
 
 These types are used to group and organize other data.

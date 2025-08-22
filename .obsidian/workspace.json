@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17c4cf6cc381e604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Tasks/2025-08-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-22"
-            }
-          },
-          {
-            "id": "80f62bf6f82af834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MindMap/Languages and words/Word list.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Word list"
-            }
-          },
-          {
             "id": "7a2e95c38706e488",
             "type": "leaf",
             "state": {
@@ -48,21 +18,82 @@
             }
           },
           {
-            "id": "38e3cb9d9394f680",
+            "id": "d2822fdf57bdec92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilities/Tasks/2025-08-21.md",
+                "file": "MindMap/Jobs/Calls.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-21"
+              "title": "Calls"
+            }
+          },
+          {
+            "id": "9e0131644cff0dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JP Morgan Process.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "JP Morgan Process"
+            }
+          },
+          {
+            "id": "f3803fe9c1c06b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML_Notes/Machine learning/Model Evaluation/Classification model evaluation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Classification model evaluation"
+            }
+          },
+          {
+            "id": "9eb1ec867da78023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MindMap/Jobs/Related files/Interview process in progress.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview process in progress"
+            }
+          },
+          {
+            "id": "ba5dd739fa3569ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object Oriented Programming.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Object Oriented Programming"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,42 +252,42 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "17c4cf6cc381e604",
+  "active": "9e0131644cff0dda",
   "lastOpenFiles": [
-    "AIML_Notes/Python and its libraries/Related/Basics of Python.md",
+    "Interview documentation list.md",
+    "MindMap/Jobs/Calls.md",
+    "MindMap/Jobs/Related files/Interview process in progress.md",
+    "Object Oriented Programming.md",
+    "AIML_Notes/Machine learning/Model Evaluation/Classification model evaluation.md",
+    "AIML_Notes/Machine learning/Model Evaluation/Model evaluation metrics.md",
+    "AIML_Notes/Machine learning/Model Evaluation/Model evaluation.md",
+    "AIML_Notes/Machine learning/AI ML Roadmap.md",
+    "JP Morgan Process.md",
     "Utilities/Tasks/2025-08-22.md",
-    "English Idioms.md",
+    "Interview EverNorth.md",
+    "MindMap/Jobs/Related files/Interview O9 solutions.md",
+    "AIML_Notes/Python and its libraries/Python RoadMap.md",
+    "AIML_Notes/Python and its libraries/Related/Basics of Python.md",
+    "AIML_Notes/Python and its libraries/Related/Python String Datatype.md",
+    "AIML_Notes/Python and its libraries/Related/Python Data Types and Type conversion.md",
+    "AIML_Notes/Python and its libraries/Related/UNICODE vs ASCII.md",
+    "Computer-Science/Programming fundamentals/Types of Programming Language.md",
+    "AIML_Notes/Python and its libraries/Related/List of popular built in module in python.md",
     "AIML_Notes/Python and its libraries/Related/List of popular built in function in python.md",
+    "MindMap/Languages and words/Word list.md",
+    "English Idioms.md",
     "AIML_Notes/Python and its libraries/Related/Conditional statements and Loops.md",
     "Utilities/Tasks/2025-08-21.md",
-    "MindMap/Languages and words/Word list.md",
     "AIML_Notes/Python and its libraries/Related/Error Handelling and Input Validation.md",
     "AIML_Notes/Python and its libraries/Related/Variables, Keywords, Identifiers and Literals.md",
-    "AIML_Notes/Python and its libraries/Python RoadMap.md",
-    "AIML_Notes/Python and its libraries/Related/Programming related word.md",
     "Untitled.base",
     "OBS formatting/heading-colors.css",
     "OBS formatting",
     "untitled folder",
     "heading-colors.css",
-    "AIML_Notes/Python and its libraries/Related/Python Data Types and Type conversion.md",
-    "AIML_Notes/Python and its libraries/Related/Python Data Types.md",
-    "AIML_Notes/Python and its libraries/Related/Python PRINT() and INPUT() function.md",
-    "MindMap/Languages and words/Context dependent words/Reddit words.md",
-    "AIML_Notes/Python and its libraries/Python question bank.md",
-    "MindMap/Languages and words/Language related words/Malayali words Dump/Malyali.md",
-    "MindMap/Jobs/Calls.md",
     "Utilities/Mindmaps/Interview prep.canvas",
-    "Utilities/Mindmaps/Interview prep.md",
     "Utilities/Mindmaps/Preparation map.canvas",
-    "AIML_Notes/Python and its libraries/Related/Operators in Python.md",
-    "AIML_Notes/Python and its libraries/Core python/Python Syntax Test.md",
-    "AIML_Notes/Tests and Question Bank/List of tests.md",
-    "AIML_Notes/Python and its libraries/hashable type.md",
     "AIML_Notes/Python and its libraries/Related",
-    "AIML_Notes/Python and its libraries/Core python/Classes.md",
-    "AIML_Notes/Python and its libraries/Libraries/Pytorch.md",
-    "AIML_Notes/Python and its libraries/Libraries/Libraries.md",
     "Utilities/Templates",
     "Work Experience/Fractal/Reckitt Benkiser - PNP modelling",
     "Work Experience/Fractal/Mckormick - MMM modelling",
