@@ -7,28 +7,28 @@ User perspective involves - RAG, Finetuning, Agentic, Vector databases, Prompt e
 Builder perspective involves - RLHF, Fine tuning, pretraining, quantization
 # Foundational model/ Base model
 ## A. Builders perspective
-	1. Transformer architecture
-	2. Types of Transformers
-		1. Encoder only (Bert)
-		2. Decoder only (LLama, Mistral)
-		3. Encoder + Decoder
-	3. Pretraining
-	4. Optimization
-	5. Evaluation
-	6. Deployment
+1. [[Transformer architecture]]
+2. Types of Transformers
+3. Encoder only (Bert)
+4. Decoder only (LLama, Mistral)
+5. Encoder + Decoder
+6. Pretraining
+7. Optimization
+8. Evaluation
+9. Deployment
 ## B. User perspective
-	1. Building basic LLM Apps
-		1. Open source vs closed source LLMs
-		2. Using LLM APIs
-		3. LangChain
-		4. Huggingface 
-		5. Ollama
-	2. Prompt engineering
-	3. RAG
-	4. Fine Tuning
-	5. Agentic
-	6. LLMOps
-	7. Misc
+1. Building basic LLM Apps
+	1. Open source vs closed source LLMs
+	2. Using LLM APIs
+	3. LangChain
+	4. Huggingface 
+	5. Ollama
+2. Prompt engineering
+3. RAG
+4. Fine Tuning
+5. Agentic
+6. LLMOps
+7. Misc
 
 ![[Pasted image 20250803132516.png | 450]]
 
