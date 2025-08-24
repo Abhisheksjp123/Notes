@@ -1,8 +1,8 @@
-Subquery is a query within another query. It is a SELECT statement that is nested inside another SELECT, INSERT, UPDATE or DELETE statement. THe subquery is xecuted first and its result is then used as a parameter or condition fot the outer query.
+Subquery is a query within another query. It is a SELECT statement that is nested inside another SELECT, INSERT, UPDATE or DELETE statement. The subquery is executed first and its result is then used as a parameter or condition for the outer query.
 
-Note - THe topic is slightly difficult and needs a lot of practice
+Note - The topic is slightly difficult and needs a lot of practice
 
-Example: Find the movie with the highest rating. This can be done oter methods as well, but we'll focus on Subquery
+Example: Find the movie with the highest rating. This can be done by other methods as well, but we'll focus on Subquery
 ```
 SELECT * FROM movies
 WHERE score = (SELECT MAX(score) FROM movies)
@@ -68,7 +68,6 @@ WHERE score>(SELECT AVG(score) FROM movies m2
 
 # Where can subqueries be used?
 1. INSERT
-
 ```
 INSERT INTO loyal_customers
 (user_id, name)
@@ -80,11 +79,11 @@ HAVING COUNT(*) > 3
 ```
 1. SELECT
 	1. With WHERE
-	2. WIth SELECT
+	2. With SELECT
 	3. With FROM
 	4. With HAVING
 2. UPDATE
 3. DELETE
 
 
-*We need to create subqueries in SQL because we cannot create variable in SQL like python, because SQL is a non procedural programming language, which makes it difficut to work with SQL*
+*We need to create subqueries in SQL because we cannot create variable in SQL like python, because SQL is a non procedural programming language, which makes it difficult to work with SQL*

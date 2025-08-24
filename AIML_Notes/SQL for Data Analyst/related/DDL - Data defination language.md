@@ -1,4 +1,4 @@
-Data defination language
+Data definition language
 CREATE | ALTER | DROP | TRUNCATE
 # CREATE
 Creates databases, tables, indexes, views, etc.
@@ -60,6 +60,13 @@ ALTER TABLE customers ADD COLUMN password VARCHAR(255) NOT NULL
 *You can also add a column AFTER/BEFORE a certain column*
 ```
 ALTER TABLE customers ADD COLUMN surname VARCHAR(255) NOT NULL AFTER name
+```
+
+you can add miltiple column at a single time as
+```
+ALTER TABLE customers 
+ADD COLUMN password VARCHAR(255) NOT NULL,
+ADD COLUMN credit_score VARCHAR(255) NOT NULL
 ```
 
 2. DROP COLUMN

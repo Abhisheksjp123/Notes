@@ -1,4 +1,4 @@
-Window finction are a type of analytical function in SQL that performs calculations across a set of rows that are related to the current row, called a "window". A window function calculates a value for each row in the result set based on subset of the rows that are defiend by a window specification.
+Window function are a type of analytical function in SQL that performs calculations across a set of rows that are related to the current row, called a "window". A window function calculates a value for each row in the result set based on subset of the rows that are defined by a window specification.
 
 The window specification are defined using  the OVER() clause in SQL, which specifies the partitioning and ordering of the rows that the window function will operate on. The partitioning divides the row into groups based on a specific column or expression, while the ordering defines the order in which the rows are processed within each group.
 
@@ -36,7 +36,7 @@ But instead if we do it though WINDOW function
 SELECT *, AVG(marks) OVER(PARTITION BY branch) FROM students 
 ```
 
-Result will be the same but instead of providing for a geoup it will do it for each row
+Result will be the same but instead of providing for a group it will do it for each row
 
 | student_id | name          | branch           | marks | avg_marks_by_branch |
 | :--------- | :------------ | :--------------- | :---- | :------------------ |
@@ -54,9 +54,9 @@ Result will be the same but instead of providing for a geoup it will do it for e
 
 # Function that are specifically useful with windows function
 
-*SUM() is a aggregte function, it is not exactly for a window *, there are some other functions that are especially usefull on a window.
+*SUM() is a aggregate function, it is not exactly for a window *, there are some other functions that are especially useful on a window.
 but we can still use window functions with additive functions like.
-EX. Find all the students whose marks are greter than the branch average
+EX. Find all the students whose marks are greater than the branch average
 
 ```
 SELECT * FROM 
@@ -124,11 +124,11 @@ FRAMES - a frame in a window is a subset of rows within the partition that deter
 
 The ROWS clause specifies how many rows should be included in the frame relative to the current row. For example, ROWS 3 PRECEDING means that the frame includes the current row and the 3 rows that precede in the partition.
 
-the BETWEEN clause specified the boundries of the frame.
+the BETWEEN clause specifies the boundaries of the frame.
 
 Examples:
 
-1. ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW: means that the fracme includes all the rows from the beginning of the partition upto and including the current row.
+1. ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW: means that the frame includes all the rows from the beginning of the partition up to and including the current row.
 *This is the default selection, and this is the reason that output in case of FIRST_VALUE() came correct but LAST_VALUE() came incorrect*
 
 2. ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING: This frame include the current row and the row immediate before and after it.
@@ -147,7 +147,7 @@ FROM students
 
 Example 2: ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING certainly makes the syntax long, and would be difficult in case of multiple windows.
 consider this example:
-Fine the name,  marks and branch of the topper in each branch
+Find the name,  marks and branch of the topper in each branch
 ```
 SELECT name,  branch, marks FROM 
 (SELECT *, 

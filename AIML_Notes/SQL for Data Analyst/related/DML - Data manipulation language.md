@@ -1,4 +1,4 @@
-**DML (Data Manipulation Language)** is a subset of SQL used to manipulate and retrieve data stored in database tables. to do CRUD operation create,retrieve, update and delete
+**DML (Data Manipulation Language)** is a subset of SQL used to manipulate and retrieve data stored in database tables. to do CRUD operation create, retrieve, update and delete
 
 For this we'll be using Oracle MySQL workbench DBMS
 Database name: campusx
@@ -10,6 +10,7 @@ CREATE TABLE users(
     email VARCHAR(255) NOT NULL UNIQUE,
     password VARCHAR(255) NOT NULL
     )
+* you can cover these notes in this sequence as well, INSERT, UPDATE, DELETE and then RETRIVE at last*
 # INSERT
 Adds new records to database tables.
 ```
@@ -28,13 +29,13 @@ VALUES ('nitish', 'nitish@gmail.com')
  Similarly you can also include multiple values, by adding VALUES() as per your requirement.
 
 
-*You can also insert a table with insert statement with subqueries, example will come in RETRIEVE>SUBQUERIES*
+*You can also insert a table with insert statement with subqueries, example will come next in RETRIEVE>SUBQUERIES*
 
 
 # ==RETRIEVE - V.IMP==
 The most commonly used DML command for querying and retrieving data from tables.
 
-We'll be using smartphone data in this example, present in Github>SQL-Projects>CRUD_DML_operations
+We'll be using smartphone data in this example, present in GitHub>SQL-Projects>CRUD_DML_operations
 
 1. [[General SELECT statements]]
 2. [[SQL Joins]]

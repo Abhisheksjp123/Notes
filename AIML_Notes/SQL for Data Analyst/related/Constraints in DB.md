@@ -7,27 +7,27 @@ Constraints in are rules and conditions that must be met for data to be inserted
 Ensures that a column cannot have empty/null values.
 ```
 CREATE TABLE users(
-user_id INT NOT NULL,
-name VARCHAR(100) NOT NULL,
-email VARCHAR(150),
-password VARCHAR(255)
+	user_id INT NOT NULL,
+	name VARCHAR(100) NOT NULL,
+	email VARCHAR(150),
+	password VARCHAR(255)
 )
 ```
 # 2. UNIQUE(combo)
 Ensures that all values in a column or combination of columns are unique across the table.
 ```
 CREATE TABLE users(
-user_id INT NOT NULL,
-name VARCHAR(100) NOT NULL,
-email VARCHAR(150) NOT NULL UNIQUE,
-password VARCHAR(255) NOT NULL
+	user_id INT NOT NULL,
+	name VARCHAR(100) NOT NULL,
+	email VARCHAR(150) NOT NULL UNIQUE,
+	password VARCHAR(255) NOT NULL
 )
 ```
 
 Another way of creating constraint:
-this have two benifts:
-1. Instead of specifying an attribute to be unique, they can give a combination of attributes to be unique. in below case name+email should be unique
-2. This also specifies a name to unique constraint, so in future you can delete this contraint without affecting the overall table.
+this have two benefits:
+1. Instead of specifying an attribute to be unique, they can give a combination of attributes to be unique. in below case name and email should be unique
+2. This also specifies a name to unique constraint, so in future you can delete this constraint without affecting the overall table.
 ```
 CREATE TABLE users(
 	user_id INT NOT NULL,
@@ -52,7 +52,7 @@ password VARCHAR(255) NOT NULL
 ```
 
 Another way of creating constraint:
-1. This is the way to create composite pk. in below example both user_id+name are used to create composite key
+1. This is the way to create composite pk. in below example both user_id and name are used to create composite key
 ```
 CREATE TABLE users(
 	user_id INT NOT NULL,
@@ -124,9 +124,9 @@ CREATE TABLE orders(
 ```
 
 The benefit of using a primary key is that:
-- if you want to delete customer table, it will throwgh a error, because that table is being utilized by orders table.
+- if you want to delete customer table, it will through an error, because that table is being utilized by orders table.
 so by this we ensure the integrity of orders table
- - Also it creates a reference so you can only deletes a customer after deleting the orders of the customer from the orders table, these restricions are also called referential actions.
+ - Also it creates a reference so you can only deletes a customer after deleting the orders of the customer from the orders table, these restrictions are also called referential actions.
 
 # Referential Actions 
 1. RESTRICT

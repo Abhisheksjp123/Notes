@@ -7,4 +7,4 @@ Constraints in are rules and conditions that must be met for data to be inserted
 2. Transactions in DB:
 A sequence of database operations that are treated as a single unit of work
 3. Normalization in DB:
-a design techinque that minimizes data redundency and ensures data consistency by organizing data into seperate tables.
+a design technique that minimizes data redundancy and ensures data consistency by organizing data into separate tables.

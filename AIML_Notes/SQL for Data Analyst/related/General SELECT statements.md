@@ -24,7 +24,7 @@ SELECT model, SQRT(resolution_width*resolution_width + resolution_height*resolut
 FROM campusx.smartphones
 ```
 
-5. Contant value column
+5. Constant value column
 ```
 SELECT model, 'smartphone' as 'type' FROM campusx.smartphones
 ```
@@ -55,7 +55,7 @@ these =, > are known as operators, some other popular SQL specific operators
 
 8. Sorting values with ==ORDER BY==
 
-Ex. find top 5 smart phones by samsung with the highest price
+Ex. find top 5 smart phones by Samsung with the highest price
 ```
 SELECT model, price
 FROM campusx.smartphones
