@@ -1,21 +1,13 @@
 ## Basic Data Types
-
 These are the fundamental building blocks for data in Python.
 
 - **int**: For whole numbers, like `100`, `-5`.
-    
 - **float**: For numbers with a decimal point, like `3.14`, `-0.5`.
-    
 - **bool**: For truth values, which can only be `True` or `False`.
-    
 - **str (String)**: A sequence of characters used for text.
-    
-    - **Indexing**: Access characters by position, starting from 0. `"Python"[2]` gives `'t'`.
-        
-    - **Multi-line**: Create with triple quotes (`"""..."""`) or new-line characters (`\n`).
-        
-    - **Methods**: Strings have useful built-in functions, like `.upper()` and `.lower()`.
-        
+	- **Indexing**: Access characters by position, starting from 0. `"Python"[2]` gives `'t'`.
+	- **Multi-line**: Create with triple quotes (`"""..."""`) or new-line characters (`\n`).
+	- **Methods**: Strings have useful built-in functions, like `.upper()` and `.lower()`.
 
 You can always check a variable's type using the `type()` function. For example, `type(3.14)` returns `<class 'float'>`.
 

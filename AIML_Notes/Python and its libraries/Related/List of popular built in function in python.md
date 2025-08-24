@@ -1,7 +1,7 @@
 1. print()
 2. input()
 3. type()
-4. int()
+4. int() #typecasting
 	also
 	1. float()
 	2. str()
@@ -12,8 +12,8 @@
 7. round()
 8. pow()
 	pow(2,3) = 2^3 = 8
-9. id ==iimp==
-	If returns address of the variable in meomory
+9. id ==imp==
+	If returns address of the variable in memory
 10. len()
 11. sum()
 12. help()
@@ -25,7 +25,7 @@ Difference b/w help() and dir()
 The main difference is that `dir()` gives you a **list of what's available** in an object, while `help()` gives you the **documentation on how to use it**.
 
 Think of `dir()` as the table of contents of a book, and `help()` as the actual chapter text.
-==dir() use=-
+==dir() use==
 ```
 my_list = [1, 2, 3]
 

@@ -1,15 +1,10 @@
 ## Modules in Python
 
 A **module** is a file containing Python code—usually functions, classes, and variables—that you can reuse in other programs. Think of it as a **code library** or a toolbox filled with pre-written tools for you to use.
-
 Using modules helps keep your code organized and allows you to use powerful functions without having to write them from scratch. Common built-in modules include `math`, `random`, `os`, and `time`.
-
 #### 1. Importing a Module
-
 There are a few common ways to import a module.
-
 - **Standard Import:** This imports the entire module. You must use the module's name as a prefix to access its functions. This is the most common and recommended way because it avoids naming conflicts.
-
 ```
 import math
 
@@ -19,7 +14,6 @@ print(math.pi)       # Output: 3.14159...
 ```
 
 - **Importing with an Alias (`as`):** You can give a module a shorter, more convenient name. This is very common with libraries like NumPy or Pandas.
-
 ```
 import math as m
 
@@ -38,7 +32,6 @@ print(pi)       # Output: 3.14159...
 ```
 
 #### 2. Accessing Module Contents
-
 Once imported, you use the dot (`.`) operator to access the functions, variables, or classes inside the module.
 
 ```

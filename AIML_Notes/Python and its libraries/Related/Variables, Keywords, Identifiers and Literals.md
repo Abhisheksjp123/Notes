@@ -10,7 +10,7 @@ A variable name must follow specific rules:
 - It **cannot** contain spaces or special characters like hyphens (`-`).
 - Variable names are **case-sensitive** (`age`, `Age`, and `AGE` are three different variables).
 
-✅ **Valid:** `user_name`, `value_1`, `_private_var` ❌ **Invalid:** `2_users`, `user-name`, `user name`
+ **Valid:** `user_name`, `value_1`, `_private_var` ❌ **Invalid:** `2_users`, `user-name`, `user name`
 
 ### Assigning Values
 
@@ -126,58 +126,32 @@ print(type(data)) # Output: <class 'bytes'>
 ```
 
 ### Numeric Literals
-
 These are literals representing numbers.
 
 - **Integer**: Can be written in different bases.
-
 - **Decimal**: `255`
-
 - **Binary**: `0b11111111`
-
 - **Octal**: `0o377`
-
 - **Hexadecimal**: `0xFF` (All of these equal 255)
-
 - **Float**: Can be written with a decimal or in scientific notation.
-
-- `3.14`
-
-- `1e6` (which means 1times106, or 1,000,000)
-
+	- `3.14`
+	- `1e6` (which means 1times106, or 1,000,000)
 - **Complex**: Written with a `j` to denote the imaginary part.
-
-- `3 + 4j`
-	
-
+	- `3 + 4j`
 ### Boolean Literals
-
-There are only two boolean literals, representing truth values.
-
+There are only two Boolean literals, representing truth values.
 - `True`
-
 - `False`
 
-
 ### The Special Literal
-
 Python has one special literal used to represent the absence of a value.
-
 - `None`
-
-
 ### Container Literals
-
 You can also define containers and their contents literally.
-
 - **List**: `[10, "apple", True]`
-
 - **Tuple**: `(10, "apple", True)`
-
 - **Dictionary**: `{"name": "Bob", "age": 40}`
-
 - **Set**: `{10, "apple", True}`
-
 
 You can also use multiplication to create a list with repeated elements.
 ```

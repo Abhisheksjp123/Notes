@@ -1,4 +1,3 @@
-
 # Conditional Statements (if/elif/else)
 
 Conditional statements allow your program to make decisions and execute different blocks of code based on whether a condition is `True` or `False`.

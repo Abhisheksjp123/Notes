@@ -1,4 +1,4 @@
-In Python specifically string are Sequence of UNICODE characters 
+In Python specifically string are sequence of UNICODE characters 
 Q. Why UNICODE and not ASCII?
 Ans. [[UNICODE vs ASCII]]
 
@@ -29,14 +29,11 @@ print(multi_line_string)
 ```
 
 **Output:**
-
 ```
 This is a string
 that spans across
 multiple lines.
 ```
-
-
 # 2. Accessing strings
 Since strings are ordered sequences of characters, you can access their contents by position. You can access individual characters or parts of a string using indexing and slicing.
 ## Concept of Indexing(Accessing a Single Character)
