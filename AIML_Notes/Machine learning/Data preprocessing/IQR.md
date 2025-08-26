@@ -5,3 +5,6 @@ what IQR is doing is identifying a nominal upper and lower limit for height.
 
 
 ![[Pasted image 20250810131008.png]]
+
+Note: in box and whiskers plot the box generally represent IQR
+![[Untitled.png]]

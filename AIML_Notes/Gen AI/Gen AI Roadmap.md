@@ -8,14 +8,15 @@ Builder perspective involves - RLHF, Fine tuning, pretraining, quantization
 # Foundational model/ Base model
 ## A. Builders perspective
 1. [[Transformer architecture]]
-2. Types of Transformers
-3. Encoder only (Bert)
-4. Decoder only (LLama, Mistral)
-5. Encoder + Decoder
-6. Pretraining
-7. Optimization
-8. Evaluation
-9. Deployment
+2. [[Self Attention]]
+3. Types of Transformers
+	1. Encoder only (Bert)
+	2. Decoder only (LLama, Mistral)
+	3. Encoder + Decoder
+4. Pretraining
+5. Optimization
+6. Evaluation
+7. Deployment
 ## B. User perspective
 1. Building basic LLM Apps
 	1. Open source vs closed source LLMs

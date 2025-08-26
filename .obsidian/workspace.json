@@ -8,52 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba5dd739fa3569ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gradient Boosting Machine (GBM).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Gradient Boosting Machine (GBM)"
-            }
-          },
-          {
             "id": "b74924c53384d2a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML_Notes/Python and its libraries/Related/Python Data Types and Type conversion.md",
+                "file": "AIML_Notes/Statistics in ML/Statistics Roadmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Python Data Types and Type conversion"
-            }
-          },
-          {
-            "id": "070650e606c8f8ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdaBoost (Adaptive Boosting).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "AdaBoost (Adaptive Boosting)"
+              "title": "Statistics Roadmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,33 +184,44 @@
   },
   "active": "b74924c53384d2a4",
   "lastOpenFiles": [
-    "AIML_Notes/Python and its libraries/Related/Python String Datatype.md",
-    "AIML_Notes/Python and its libraries/Related/Python Data Types and Type conversion.md",
-    "AIML_Notes/Python and its libraries/Related/Basics of Python.md",
-    "AIML_Notes/Python and its libraries/Related/List of popular built in module in python.md",
-    "AIML_Notes/Python and its libraries/Related/List of popular built in function in python.md",
-    "AIML_Notes/Python and its libraries/Related/Conditional statements and Loops.md",
-    "AIML_Notes/Python and its libraries/Related/Operators in Python.md",
-    "AIML_Notes/Python and its libraries/Related/Error Handelling and Input Validation.md",
-    "AIML_Notes/Python and its libraries/Related/Variables, Keywords, Identifiers and Literals.md",
-    "AIML_Notes/Python and its libraries/Related/Python PRINT() and INPUT() function.md",
-    "AIML_Notes/Python and its libraries/Python RoadMap.md",
+    "AIML_Notes/Statistics in ML/Inferential Statistics.md",
+    "AIML_Notes/Statistics in ML/Hypothesis testing and P-Value.md",
+    "Pasted image 20250826135305.png",
+    "AIML_Notes/Statistics in ML/Pasted image 20250826134216.png",
+    "AIML_Notes/Statistics in ML/Sample Statics vs Population Parameters.md",
+    "AIML_Notes/Statistics in ML/Statistics Roadmap.md",
+    "AIML_Notes/Statistics in ML/Distribution, Normal Distribution and Central Limit Thereon.md",
+    "Untitled.jpeg",
+    "AIML_Notes/Statistics in ML/licensed-image.jpeg",
+    "AIML_Notes/Statistics in ML/Pasted image 20250826122653.png",
+    "AIML_Notes/Statistics in ML/Pasted image 20250826122530.png",
+    "AIML_Notes/Statistics in ML/Descriptive Statistics.md",
+    "AIML_Notes/Roadmaps/CampusX ETE ML Roadmap.md",
+    "Utilities/Tasks/2025-08-26.md",
+    "MindMap/Jobs/Impact Analytics June25 DS/Interview.md",
+    "Bases test.base",
+    "Work Experience/Untitled.md",
+    "Descriptive Statistics with Python dataset.md",
+    "AIML_Notes/Statistics in ML/Related/Types of data in ML and Their Analysis.md",
+    "AIML_Notes/Statistics in ML/Related/Bivariate Analysis.md",
+    "AIML_Notes/RoadMaps and QuestionBanks.md",
+    "AIML_Notes/Statistics in ML/Related/Pasted image 20250826001657.png",
+    "AIML_Notes/Statistics in ML/Related/Univariate Analysis.md",
+    "AIML_Notes/Data Visualization/Plots/KDE(Kernel Density Estimation).md",
+    "AIML_Notes/Statistics in ML/Related/Untitled-1 1.png",
+    "AIML_Notes/Statistics in ML/Related/Untitled-1.png",
+    "AIML_Notes/Statistics in ML/Related/norm.md",
+    "AIML_Notes/Machine learning/Data preprocessing/IQR.md",
+    "AIML_Notes/Statistics in ML/Related/Untitled.png",
     "AIML_Notes/SQL for Data Analyst/SQL.md",
-    "Utilities/REVISION.md",
-    "Utilities/Tasks/2025-08-24.md",
-    "AIML_Notes/SQL for Data Analyst/related/Aggregate sql function.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL Functions.md",
-    "AIML_Notes/SQL for Data Analyst/SQL Practice Question bank.md",
-    "AIML_Notes/SQL for Data Analyst/related/Order of Query execution.md",
-    "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL Window Funtion.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL Common table expressions - CTEs.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL SubQueries.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL Joins.md",
-    "AIML_Notes/SQL for Data Analyst/related/Normalization in SQL.md",
-    "AIML_Notes/SQL for Data Analyst/related/General SELECT statements.md",
-    "AIML_Notes/SQL for Data Analyst/related/SQL operators.md",
-    "Untitled.base",
+    "AIML_Notes/Statistics in ML/AB Testing.md",
+    "AIML_Notes/Statistics in ML/Statistics Test.md",
+    "AIML_Notes/Gen AI/Gen AI Roadmap.md",
+    "AIML_Notes/Statistics in ML/Related",
+    "AIML_Notes/Gen AI/Self Attention.md",
+    "Utilities/Open Source tools/PDFs.md",
+    "Utilities/Open Source tools",
+    "AIML_Notes/Gen AI/Deep dive into LLMs like ChatGPT.md",
     "OBS formatting/heading-colors.css",
     "OBS formatting",
     "untitled folder",
@@ -250,18 +230,6 @@
     "Utilities/Mindmaps/Preparation map.canvas",
     "AIML_Notes/Python and its libraries/Related",
     "Utilities/Templates",
-    "Work Experience/Fractal/Reckitt Benkiser - PNP modelling",
-    "Work Experience/Fractal/Mckormick - MMM modelling",
-    "Work Experience/Fractal/US PETCARE RGM",
-    "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250818093528.png",
-    "AIML_Notes/SQL for Data Analyst/related/Pasted image 20250817130720.png",
-    "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 8.39.55 PM.png",
-    "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 5.58.13 PM.png",
-    "Computer-Science/DataBase/Related/Screenshot 2025-08-16 at 5.50.08 PM.png",
-    "AIML_Notes/Gen AI/Related/Screenshot 2025-07-25 at 12.03.28 AM.png",
-    "Screenshot 2025-07-25 at 12.00.12 AM.png",
-    "AIML_Notes/Deep Learning/Images/Pasted image 20250627193919.png",
-    "AIML_Notes/Deep Learning/Images/638866497801006777.png",
-    "AIML_Notes/Deep Learning/Images/Pasted image 20250627195416.png"
+    "Work Experience/Fractal/Reckitt Benkiser - PNP modelling"
   ]
 }
