@@ -72,7 +72,7 @@ interview done on 1st Aug [[l1 - interview Carrefour]]
 Waiting for round 2, mp will be rejected
 Rejected
 
-7.MSD pharmasuticals
+7.MSD pharmaceuticals
 Hr - Pritee some organization
 Email - Replied with resume on workday [link](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Pune-Wework/Manager-Data-Science_R336888-2) 
 Role - Manager data science

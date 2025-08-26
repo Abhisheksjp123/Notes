@@ -57,7 +57,7 @@ The sentence is represented as the vector [2, 0, 1]. Variations like TF-IDF (Ter
 Problem: While BoW captures word frequency, it completely ignores word order and context. "The cat chased the rat" and "The rat chased the cat" would have identical representations, even though their meanings are opposite.
 
 These early methods were a crucial first step, but they couldn't capture the rich semantic meaning of words. The true breakthrough, as you noted, came with the introduction of ==Word Embeddings==.
-### Word Embedding
+## 3. Word Embedding
 Word embeddings were a massive leap forward because they could capture the **semantic meaning** of a word in a dense vector of numbers. Unlike previous methods, these representations understood that words like "king" and "queen" are more related to each other than to "cricketer."
 
 ==How Word Embeddings are Created?==
@@ -87,7 +87,7 @@ So what we need is context dependent embedding.
 
 # Self Attention
 Self attention solves this problem of static embedding.
-What it does it takes all the embedding of the words in that sentence and pass it through the self attention which provides context dependent embedding based on all other words in the sentence.
+What it does it takes all the embedding of the words in that sentence and pass it through the self attention, which provides context dependent embedding based on all other words in the sentence.
 
 [[How Self Attention Works]]
 

@@ -4,8 +4,7 @@
 	- L1 completer - waiting for results
 2. IDFC Bank
 	- L1 completer - waiting for results
-
-3. EveNorth
+3. EverNorth
 	- L1 completer - waiting for results
 # Assesment 
 ## sent
@@ -27,8 +26,8 @@
 # Recently Contacted
 1. Genpact
 2. cognetiq
-3. Tesco
-4. Innoval digital
+
+3. Innoval digital
 
 
 # No activity
@@ -40,6 +39,8 @@
 1. Ebay
 2. Impact Analytics
 3. Carrefour
-4. Exponentia.ai
-5. 3. O9 Solutions
-	- L1 completed - Rejected
+4. Exponentia.ai - Focus was on Gen ai, not enough was answered
+5. O9 Solutions
+	- L1 completed - Rejected : I think CPG knowledge was not at par
+6. Tesco
+	- Assessment round rejected: why? 2 assessments, SQL went good all 5/5 but in python 0/3 done

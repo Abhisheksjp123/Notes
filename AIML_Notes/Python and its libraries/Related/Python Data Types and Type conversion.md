@@ -18,67 +18,51 @@ You can always check a variable's type using the `type()` function. For exampl
 These types are used to group and organize other data.
 
 ### 1. Lists `[]`
-
-An **ordered** and **mutable** (changeable) collection of items.
+An **==ordered==** and **mutable** (changeable) collection of items.
 
 - **Creation**: `my_list = []` or `my_list = [1, "hello", 3.0]`
-    
 - **Combining**: Use `+` to combine two lists into a new one. `[1, 2] + [3, 4]` results in `[1, 2, 3, 4]`.
-    
 - **Adding Elements**:
-    
     - `.append(item)` adds a single item to the end.
-        
     - `.extend(list)` adds all items from another list to the end.
-        
+
+More on this on [[Python Lists]]
 
 ### 2. Tuples `()`
 
 An **ordered** and **immutable** (unchangeable) collection of items. Once created, you can't add, remove, or change elements.
 
 - **Creation**: `my_tuple = (1, "hello", 3.0)`
-    
 - **Single-element tuple**: You must use a trailing comma: `single = (5,)`. Without the comma, `(5)` is just the integer `5`.
-    
+More on this on [[Python Tuple]]
+
+
+
 
 ### 3. Dictionaries `{}`
-
 A collection of **key-value pairs**. It's unordered in older Python versions but keeps insertion order in modern Python (3.7+).
-
 - **Creation**: `my_dict = {}` or `my_dict = {"name": "Alice", "age": 25}`
-    
 - **Accessing Values**:
-    
-    - `my_dict["name"]` returns `"Alice"`. Accessing a key that doesn't exist will raise a `KeyError`.
-        
-    - `my_dict.get("city")` is the safe way to access a key. It returns `None` (or a specified default) if the key is not found, preventing a crash.
-        
+	- `my_dict["name"]` returns `"Alice"`. Accessing a key that doesn't exist will raise a `KeyError`.
+	- `my_dict.get("city")` is the safe way to access a key. It returns `None` (or a specified default) if the key is not found, preventing a crash.
 - **Getting Keys**: The `.keys()` method returns all the keys in the dictionary.
-    
+More on this on [[Python Dictionary]]
 
 ### 4. Sets `set()`
 
 An **unordered** collection of **unique** elements. Duplicates are automatically removed.
-
 - **Creation**:
-    
-    - `my_set = {1, 2, 3, 3}` results in `{1, 2, 3}`.
-        
-    - To create an **empty set**, you **must** use `empty_set = set()`. Using `{}` creates an empty dictionary.
-        
+	- `my_set = {1, 2, 3, 3}` results in `{1, 2, 3}`.
+	- To create an **empty set**, you **must** use `empty_set = set()`. Using `{}` creates an empty dictionary.
 - **Adding Elements**: Use the `.add()` method: `my_set.add(4)`.
-    
 - **Set Operations**: Sets are great for mathematical operations.
-    
-    - **Intersection (`&`)**: Finds elements common to both sets.
-        
-    - **Union (`|`)**: Combines all elements from both sets.
-
+	- **Intersection (`&`)**: Finds elements common to both sets.
+	- **Union (`|`)**: Combines all elements from both sets.
+More on this on [[Python Sets]]
 # Type conversion
 Type conversion, or casting, is when you deliberately change a value from one data type to another. This is a common and essential task in programming.
 
 You do this by using a function that shares the same name as the data type you want to convert to.
-
 ## Common Conversion Functions
 
 - **`str(value)`**: Converts a value into a **string**. This is useful when you want to combine a number with text.

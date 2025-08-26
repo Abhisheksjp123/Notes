@@ -112,7 +112,7 @@ line = "-" * 10
 print(line) # Output: ----------
 ```
 
-- ==Realtional operations==
+- ==Relational operations==
 You can compare strings using relational operators (`==`, `!=`, `<`, `>`, `<=`, `>=`). The comparison is done **lexicographically** (like in a dictionary), based on the characters' Unicode values.
 
 A key point is that uppercase letters come before lowercase letters (e.g., `'Z'` is less than `'a'`).
@@ -145,9 +145,9 @@ print(result3) # Output: True
 - ==Loops in string==
 Since strings are sequences, you can iterate over them directly using a `for` loop to process one character at a time.
 - ==Membership operations==
-You can check if a substring exists within a larger string using the `in` and `not in` operators. The result is always a boolean (`True` or `False`).
+You can check if a substring exists within a larger string using the `in` and `not in` operators. The result is always a Boolean (`True` or `False`).
 
-# 5. string functions and methods
+# 5. String functions and methods
 A quick note on the difference:
 - **Functions** like `len()` take the string as an argument: `len(my_string)`.
 - **Methods** are called on the string object itself using dot notation: `my_string.upper()`.

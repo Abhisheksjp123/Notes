@@ -32,7 +32,7 @@ This is a powerful field of science that includes crucial topics like **Hypothes
 3. [[Distribution, Normal Distribution and Central Limit Thereon]]
 4. [[Inferential Statistics]]
 5. [[Correlation - Covariance - R square]]
-6. [[T-Tests and Anova]]
+6. [[T-Tests, Annova, Pearson Correlation and Chi Square test]]
 
 
 
