@@ -13,7 +13,7 @@ Total = Easy + Medium + Hard
 2. Pandas
 ```math
 #Variable
-Easy = 1
+Easy = 1 +5
 Medium = 0
 Hard = 0
 

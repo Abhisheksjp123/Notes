@@ -8,6 +8,7 @@ The best type of plot to use depends on the data types of the two variables you 
 ### 1. Continuous vs. Continuous
 When both your feature and your target variable are continuous (e.g., "Years of Experience" vs. "Salary"), the ideal plot is a **scatter plot**.
 - **What to look for**: A scatter plot helps you visualize the **direction** (positive or negative), **strength** (strong, weak, or no relationship), and **form** (linear or non-linear) of the relationship between the two variables.
+- You can also calculate correlation by df.corr() and then plot a heatmap, sns.heatmap()
 ### 2. Continuous vs. Categorical
 When you are comparing a continuous variable (e.g., "Salary") with a categorical variable (e.g., "Highest Degree"), you can use several plots to see how the continuous variable's distribution changes across the different categories.
 

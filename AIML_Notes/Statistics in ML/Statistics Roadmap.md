@@ -28,6 +28,8 @@ This is a powerful field of science that includes crucial topics like **Hypothes
 
 
 1. [[Types of data in ML and Their Analysis]]
+	1. [[Univariate Analysis]]
+	2. [[Bivariate Analysis]]
 2. [[Descriptive Statistics]]
 3. [[Distribution, Normal Distribution and Central Limit Thereon]]
 4. [[Inferential Statistics]]

@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Work Experience/Fractal/related/Modern Trade.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Modern Trade"
+            }
+          },
+          {
+            "id": "44beb2029235d173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "AIML_Notes/Python and its libraries/Pandas.md",
                 "mode": "source",
                 "source": false,
@@ -21,8 +36,34 @@
               "icon": "lucide-file",
               "title": "Pandas"
             }
+          },
+          {
+            "id": "17e2b5b9f32c68eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML_Notes/Statistics in ML/Related/Bivariate Analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bivariate Analysis"
+            }
+          },
+          {
+            "id": "b47c5fe213b95182",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,18 +224,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "eb442456b5675cd1",
+  "active": "b47c5fe213b95182",
   "lastOpenFiles": [
-    "AIML_Notes/Python and its libraries/Python RoadMap.md",
+    "AIML_Notes/Statistics in ML/Statistics Roadmap.md",
+    "AIML_Notes/Statistics in ML/Related/Types of data in ML and Their Analysis.md",
     "AIML_Notes/Python and its libraries/Pandas.md",
+    "AIML_Notes/Python and its libraries/Python RoadMap.md",
+    "Work Experience/Fractal/related/Modern Trade.md",
+    "Work Experience/Fractal/related/Pasted image 20250828185256.png",
+    "Work Experience/Fractal/related/Pasted image 20250828190206.png",
+    "Work Experience/Fractal/related/Pasted image 20250828190248.png",
+    "Work Experience/Fractal/related/Pasted image 20250828183330.png",
+    "Work Experience/Fractal/related/Pasted image 20250828183500.png",
+    "Work Experience/Fractal/related/Pasted image 20250828183429.png",
+    "Work Experience/Fractal/US PETCARE RGM/CPG Domain.md",
+    "Work Experience/Fractal/related/Product mix or Product assortment.md",
+    "Work Experience/Fractal/related/Stock Rotation or Stock Turnover.md",
+    "Work Experience/Fractal/related/Pasted image 20250828172223.png",
+    "Work Experience/Fractal/related/Pasted image 20250828172632.png",
+    "Work Experience/Fractal/related/Pasted image 20250828171922.png",
+    "Work Experience/Fractal/related/Pasted image 20250828171046.png",
+    "Work Experience/Fractal/related",
+    "Problem Solving/LEETCODE.md",
+    "Utilities/Calender/2025-09-02 Straive interview.md",
     "AIML_Notes/Python and its libraries/hashable type.md",
     "AIML_Notes/Python and its libraries/Python question bank.md",
     "AIML_Notes/Python and its libraries/Related/NumPy.md",
     "Roadmaps I am following/CampusX ETE ML Roadmap.md",
-    "Problem Solving/LEETCODE.md",
     "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
     "AIML_Notes/SQL for Data Analyst/SQL.md",
-    "AIML_Notes/Statistics in ML/Statistics Roadmap.md",
     "Problem Solving",
     "Work Experience/Untitled",
     "README.md",
@@ -205,31 +264,13 @@
     "AIML_Notes/Statistics in ML/Related/Distribution, Normal Distribution and Central Limit Thereon.md",
     "AIML_Notes/Statistics in ML/Related/Descriptive Statistics.md",
     "AIML_Notes/Statistics in ML/Statistics Test.md",
-    "Jobs and Job Roles/Related/Pasted image 20250827003625.png",
-    "AIML_Notes/Statistics in ML/Related/Types of data in ML and Their Analysis.md",
-    "AIML_Notes/Statistics in ML/Related/Bivariate Analysis.md",
-    "AIML_Notes/Statistics in ML/Related/Univariate Analysis.md",
-    "AIML_Notes/Statistics in ML/box-and-whisker-plot-definitions.png",
-    "AIML_Notes/Statistics in ML/Related/Pasted image 20250826122653.png",
-    "AIML_Notes/Statistics in ML/Related/Pasted image 20250826134216.png",
-    "AIML_Notes/Statistics in ML/Related/licensed-image.jpeg",
-    "AIML_Notes/Statistics in ML/Related/Pasted image 20250826135305.png",
-    "AIML_Notes/Statistics in ML/AB Testing.md",
-    "AIML_Notes/Statistics in ML/Related/Untitled.jpeg",
-    "AIML_Notes/Gen AI/Deep dive into LLMs like ChatGPT.md",
-    "AIML_Notes/Gen AI/Related/How Self Attention Works.md",
-    "AIML_Notes/Gen AI/Self Attention.md",
     "Jobs and Job Roles/Related",
-    "AIML_Notes/Python and its libraries/Related/Pasted image 20250827135018.png",
     "MindMap/Jobs/Job Description/WL 1 - Lead Decision Scientist - Tesco- July 2023 (4).pdf",
     "MindMap/Jobs/Job Description/~$_Innovation Engineer unilog.docx",
     "MindMap/Jobs/Job Description/City Group.docx",
     "MindMap/Jobs/Job Description/JD - Data Scientist - RGM - O9 Solutions.eml",
     "MindMap/Jobs/Job Description/JD_Innovation Engineer unilog.docx",
     "MindMap/Jobs/Job Description/JD - Enlyft - Senior Data Scientist.eml",
-    "MindMap/Jobs/Job Description/Jubilient Foodworks - Associate DS.pdf",
-    "AIML_Notes/Gen AI/Related/Pasted image 20250826210645.png",
-    "AIML_Notes/Gen AI/Related/Pasted image 20250826213055.png",
     "Utilities/Mindmaps/Interview prep.canvas",
     "Utilities/Mindmaps/Preparation map.canvas"
   ]
