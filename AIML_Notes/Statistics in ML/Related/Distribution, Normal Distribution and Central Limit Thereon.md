@@ -24,21 +24,18 @@ The **Exponential Distribution** is related to the Poisson distribution. While P
 	- The time until an earthquake occurs.
 
 # Normal Distribution
-
+The **Normal Distribution** is arguably the most important distribution in statistics. It's characterized by its symmetric, bell-shaped curve.
 - **Key Characteristics**: The data is centered around the mean, with values becoming progressively less frequent the further they are from the mean. The mean, median, and mode are all equal.
 - **Examples**: Heights of people, blood pressure, test scores, and measurement errors often follow a normal distribution.
-The **Normal Distribution** is arguably the most important distribution in statistics. It's characterized by its symmetric, bell-shaped curve.
+
 ![[licensed-image.jpeg|400]]
 
-→ 95 % of values lies + - 2 Standard deviation around the mean i.e  
-→ 64 % of values lies + - 1 Standard deviation around the mean i.e  
-P = 95 % for values X_mean + - X_Standard _deviation  
-So Standard deviation gives the width of normal distribution  
-  
+- 95 % of values lies +/- 2 Standard deviation around the mean i.e  
+-  68 % of values lies +/- 1 Standard deviation around the mean i.e  
+Conclusion : Standard deviation gives the width of normal distribution  
 So we need 2 things to draw a normed distribution : -  
-1. mean  
-2. standard deviation , to determine width
-
+1. Mean  
+2. Standard deviation , to determine its width
 ## Central Limit Theorem
 While many real-world phenomena like height, weight, and salary naturally follow a normal distribution, the **Central Limit Theorem (CLT)** reveals something even more profound and useful.
 

@@ -1,0 +1,3 @@
+- List are more user-friendly than Array and can contain different data types i.e list are heterogeneous while Array are homogenous
+- Arrays are stored in a single memory location unlike list hence are faster and let memory intensive
+- Numerical operation like, mathematical operations, linear algebra,  Fourier transformation are much easier in Numpy array than Lists 

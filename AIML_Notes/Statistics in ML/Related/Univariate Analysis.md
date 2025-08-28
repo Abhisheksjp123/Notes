@@ -10,6 +10,6 @@ Univariate Analysis is analysis of single data point through various statistical
 	For this bins are created for the continuous value and their frequency is plotted on bar chart.
 	This gives us idea about the distribution of data.
 	![[Untitled-1 1.png]]
-	B. [[KDE(Kernel Density Estimation)]] You can also integrate KDE plot which creates the distribution of data to check if the data is normally distributed or not.
+	B. [[KDE(Kernel Density Estimation)]] You can also integrate KDE plot which fits PDF or probablity distribution function to understand the distribution of data to check if the data is normally distributed or not.
 	C. Box plot: Box plot gives us, IQR, Median, outliers and overall spread of data
-	![[Pasted image 20250826001657.png|  300]]
+	![[box-and-whisker-plot-definitions.png]]

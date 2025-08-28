@@ -1,4 +1,4 @@
-## 1. Descriptive Statistics
+
 This branch focuses on **summarizing, organizing, and describing** the main features of a dataset. It provides a straightforward summary of the data you have, without making any conclusions beyond that data.
 Think of it as answering the question: _"What does my data look like?"_
 

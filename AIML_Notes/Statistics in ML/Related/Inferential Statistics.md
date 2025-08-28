@@ -16,4 +16,3 @@ To find the average salary of all new graduates in India, you can't survey milli
 
 ## Confidence in your predicted value.
 When we use a sample to estimate a value for an entire population, we know our estimate won't be perfect. Statisticians use two key tools—**Confidence Intervals** and **Hypothesis Testing (with p-values)**—to quantify the uncertainty and express the confidence we have in our findings.
-## [[Hypothesis testing and P-Value]]

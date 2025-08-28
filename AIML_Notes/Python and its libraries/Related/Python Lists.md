@@ -12,7 +12,7 @@ L = [[1,2],[3,4]] -> 2D list, list inside a list
 L = list("Ravi")
 ```
 
-[[List vs numpy Array]]
+[[Python List vs numpy Array]]
 # 2. Accessing a list
 Accessing items in a list is very similar to accessing characters in a string. You can retrieve a single item using its index or a sub-section of the list using slicing.
 ## Concept of Indexing(Accessing a Single item)

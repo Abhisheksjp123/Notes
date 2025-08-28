@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }

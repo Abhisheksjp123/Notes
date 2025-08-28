@@ -17,3 +17,8 @@ When you are comparing a continuous variable (e.g., "Salary") with a categorical
 
 When both your feature and your target variable are categorical (e.g., "City" vs. "Customer Churn"), you typically use tables  more specifically Pivot tables to see the split
 - **Contingency Table (Crosstab)**: A table that shows the frequency of each combination of categories. It is like a pivot table where you take sum of count keeping one variable in x-axis and one on y-axis
+
+| Overweight \| Heart Disease | Yes | No  |
+| --------------------------- | --- | --- |
+| Yes                         | 40  | 13  |
+| No                          | 11  | 132 |
