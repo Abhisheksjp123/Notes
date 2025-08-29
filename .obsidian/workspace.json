@@ -8,52 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0f765df453bbb1c",
+            "id": "886b356ec841a5fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b574186b4cb77348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Experience/Fractal/related/Modern Trade.md",
+                "file": "Problem Solving/LEETCODE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Modern Trade"
+              "title": "LEETCODE"
             }
           },
           {
-            "id": "44beb2029235d173",
+            "id": "46e6854058bcf68a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML_Notes/Python and its libraries/Pandas.md",
+                "file": "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Pandas"
+              "title": "DML - Data manipulation language"
             }
           },
           {
-            "id": "17e2b5b9f32c68eb",
+            "id": "5ee43c02498b1955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIML_Notes/Statistics in ML/Related/Bivariate Analysis.md",
+                "file": "Tvarit Process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bivariate Analysis"
+              "title": "Tvarit Process"
             }
           },
           {
-            "id": "b47c5fe213b95182",
+            "id": "413023a85a23b9d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML_Notes/Machine learning/Timeseries Modelling/Time series modelling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Time series modelling"
+            }
+          },
+          {
+            "id": "22a399d26463297f",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -63,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IQR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +141,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,53 +248,54 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b47c5fe213b95182",
+  "active": "b574186b4cb77348",
   "lastOpenFiles": [
-    "AIML_Notes/Statistics in ML/Statistics Roadmap.md",
-    "AIML_Notes/Statistics in ML/Related/Types of data in ML and Their Analysis.md",
-    "AIML_Notes/Python and its libraries/Pandas.md",
-    "AIML_Notes/Python and its libraries/Python RoadMap.md",
-    "Work Experience/Fractal/related/Modern Trade.md",
+    "README.md",
+    "Problem Solving/LEETCODE.md",
+    "Praticel problems/Untitled",
+    "Praticel problems",
+    "AIML_Notes/Untitled",
+    "Tvarit Process.md",
+    "Jobs/Related/Interview documentation list.md",
+    "Utilities/Calender/2025-08-29 Tvarit Interview.md",
+    "Jobs/Calls.md",
+    "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
+    "AIML_Notes/SQL for Data Analyst/SQL.md",
+    "AIML_Notes/SQL for Data Analyst/related/DDL - Data definition language.md",
+    "AIML_Notes/SQL for Data Analyst/related/General SELECT statements.md",
+    "AIML_Notes/SQL for Data Analyst/related/SQL Functions.md",
+    "AIML_Notes/SQL for Data Analyst/related/Aggregate sql function.md",
+    "AIML_Notes/Machine learning/Data preprocessing/IQR.md",
+    "AIML_Notes/Machine learning/Timeseries Modelling/Time series modelling.md",
+    "AIML_Notes/Statistics in ML/Related/Descriptive Statistics.md",
+    "Work Experience/Fractal/US PETCARE RGM/Model.md",
+    "Seasonality variable.md",
+    "Jobs/Related/MSD Pharmaceuticals process.md",
+    "QI2. Tell us about one of the most cherished work of yours.md",
+    "Jobs/Analysis.md",
+    "Jobs/Ideal Job.md",
+    "Jobs/Applied.md",
+    "Jobs/Related/Interview O9 solutions.md",
+    "Jobs and Job Roles/Corporate Jobs.md",
+    "Jobs/Interview questions",
+    "MindMap/Jobs/Related/MSD Pharmaceuticals process.md",
+    "Jobs/Related/taxonomy.md",
+    "Jobs/Job Description/Jubilient Foodworks - Associate DS.pdf",
+    "Jobs/Job Description/WL 1 - Lead Decision Scientist - Tesco- July 2023 (4).pdf",
+    "Jobs/Job Description/Job Description - Tvarit - Senior Data Scientist - Pune.eml",
+    "Jobs/Job Description/JD - Enlyft - Senior Data Scientist.eml",
+    "Jobs/Job Description/JD - Data Scientist - RGM - O9 Solutions.eml",
+    "Jobs/Job Description/Job Description Senior Data Scientist IDFC.docx",
     "Work Experience/Fractal/related/Pasted image 20250828185256.png",
     "Work Experience/Fractal/related/Pasted image 20250828190206.png",
     "Work Experience/Fractal/related/Pasted image 20250828190248.png",
     "Work Experience/Fractal/related/Pasted image 20250828183330.png",
     "Work Experience/Fractal/related/Pasted image 20250828183500.png",
     "Work Experience/Fractal/related/Pasted image 20250828183429.png",
-    "Work Experience/Fractal/US PETCARE RGM/CPG Domain.md",
-    "Work Experience/Fractal/related/Product mix or Product assortment.md",
-    "Work Experience/Fractal/related/Stock Rotation or Stock Turnover.md",
     "Work Experience/Fractal/related/Pasted image 20250828172223.png",
     "Work Experience/Fractal/related/Pasted image 20250828172632.png",
     "Work Experience/Fractal/related/Pasted image 20250828171922.png",
     "Work Experience/Fractal/related/Pasted image 20250828171046.png",
-    "Work Experience/Fractal/related",
-    "Problem Solving/LEETCODE.md",
-    "Utilities/Calender/2025-09-02 Straive interview.md",
-    "AIML_Notes/Python and its libraries/hashable type.md",
-    "AIML_Notes/Python and its libraries/Python question bank.md",
-    "AIML_Notes/Python and its libraries/Related/NumPy.md",
-    "Roadmaps I am following/CampusX ETE ML Roadmap.md",
-    "AIML_Notes/SQL for Data Analyst/related/DML - Data manipulation language.md",
-    "AIML_Notes/SQL for Data Analyst/SQL.md",
-    "Problem Solving",
-    "Work Experience/Untitled",
-    "README.md",
-    "T-Tests, Annova, Pearson Correlation and Chi Square test.md",
-    "AIML_Notes/Statistics in ML/Related/Hypothesis testing.md",
-    "AIML_Notes/Statistics in ML/P-Value.md",
-    "AIML_Notes/Statistics in ML/Related/Inferential Statistics.md",
-    "AIML_Notes/Statistics in ML/Related/Sample Statics vs Population Parameters.md",
-    "AIML_Notes/Statistics in ML/Related/Distribution, Normal Distribution and Central Limit Thereon.md",
-    "AIML_Notes/Statistics in ML/Related/Descriptive Statistics.md",
-    "AIML_Notes/Statistics in ML/Statistics Test.md",
-    "Jobs and Job Roles/Related",
-    "MindMap/Jobs/Job Description/WL 1 - Lead Decision Scientist - Tesco- July 2023 (4).pdf",
-    "MindMap/Jobs/Job Description/~$_Innovation Engineer unilog.docx",
-    "MindMap/Jobs/Job Description/City Group.docx",
-    "MindMap/Jobs/Job Description/JD - Data Scientist - RGM - O9 Solutions.eml",
-    "MindMap/Jobs/Job Description/JD_Innovation Engineer unilog.docx",
-    "MindMap/Jobs/Job Description/JD - Enlyft - Senior Data Scientist.eml",
     "Utilities/Mindmaps/Interview prep.canvas",
     "Utilities/Mindmaps/Preparation map.canvas"
   ]

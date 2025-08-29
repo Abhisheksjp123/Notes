@@ -1,2 +1,0 @@
-# MindMap
-All things interesting!!

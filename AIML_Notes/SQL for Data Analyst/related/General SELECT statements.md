@@ -101,3 +101,16 @@ FROM campusx.smartphones
 GROUP BY brand_name
 HAVING count>=20
 ```
+
+11. CASE WHEN function
+These are conditional function that create a column based on a condition
+
+ex: find the rows where X,Y,Z can create a triagle
+```
+SELECT x, y, z,
+    CASE
+        WHEN GREATEST(x,y,z) < (x + y + z - GREATEST(x,y,z)) THEN 'Yes'
+        ELSE 'No'
+    END AS triangle
+FROM Triangle
+```

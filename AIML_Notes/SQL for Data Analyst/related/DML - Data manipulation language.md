@@ -44,17 +44,29 @@ We'll be using smartphone data in this example, present in GitHub>SQL-Projects>C
 5. [[SQL Window Funtion]]
 # UPDATE
 Modifies existing records in database tables.
+* Remember firs SET comes then WHERE
 
 ```
 UPDATE campusx.smartphones
 SET processor_brand = 'dimensity'
 WHERE processor_brand = 'mediatek'
 
--- Multiple values can also be updated
+-- Multiple values can also be updated based on one condition
 
 UPDATE campusx.smartphones
 SET brand = 'samsung korea', has_5g = 'False'
 WHERE brand = 'samsung'
+
+-- In Update ypu cannot have multiple SET WHERE clause
+-- Use CASE operator when you want to update multiple values
+UPDATE Salary
+SET sex = 
+    CASE 
+        WHEN sex = 'm' THEN 'f'
+        WHEN sex = 'f' THEN 'm'
+        ELSE sex -- This line is optional but good practice
+    END;
+
 ```
 
 

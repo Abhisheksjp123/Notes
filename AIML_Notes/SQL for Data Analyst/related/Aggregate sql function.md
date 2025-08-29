@@ -14,3 +14,13 @@ Similarly we've RIGHT(string, number_of_characters)
 - **Example:** `SELECT LENGTH('Hello');` would return `5`.
 # Date based
 1. MONTH(date) #scaler
+
+
+
+
+>SQL function sometimes need to be applied for each column in a row
+>that is row wise, here these functions come to rescue
+# Column based
+1. GREATEST(): 
+Finds the largest value among several columns in the same row.
+

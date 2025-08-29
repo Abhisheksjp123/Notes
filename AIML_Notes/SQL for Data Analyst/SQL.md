@@ -13,7 +13,7 @@ SQL allows you to:
 # Types of SQL commands
 ![[Pasted image 20250817130720.png]]
 
-1. [[DDL - Data defination language]]
+1. [[DDL - Data definition language]]
 		[[DATA integrity]]
 2. [[DML - Data manipulation language]] (Most Imp)
 	[[Order of Query execution]]
